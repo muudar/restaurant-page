@@ -14,10 +14,6 @@
     border-bottom: 2px solid white;
 }
 
-.nav > div{
-    cursor: pointer;
-}
-
 .top-bar > :nth-child(2){
     margin-top:30px;
 }
@@ -31,6 +27,7 @@
 
 .nav>div{
     margin-right: 30px;
+    cursor: pointer;
 }
 
 .about{
