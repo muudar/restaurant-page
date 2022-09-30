@@ -1,1 +1,3 @@
-console.log("WORKING");
+import loadInitialPage from "./initial";
+
+loadInitialPage();
