@@ -30,6 +30,7 @@
 
 .nav>div{
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .mid-header{
