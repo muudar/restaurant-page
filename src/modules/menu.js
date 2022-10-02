@@ -50,7 +50,7 @@ function loadMenu(){
         menuItemName.classList.add("menu-item-name");
         textDiv.appendChild(menuItemName);
         const menuItemPrice = document.createElement("div");
-        menuItemPrice.textContent = pastas[i].price + " EGP";
+        menuItemPrice.textContent = pastas[i].price + " LE";
         menuItemPrice.classList.add("menu-item-price");
         textDiv.appendChild(menuItemPrice);
         imgDiv.appendChild(textDiv);
