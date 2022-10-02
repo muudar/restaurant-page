@@ -1,3 +1,4 @@
-import loadInitialPage from "./initial";
+import loadInitialPage from "./modules/initial";
 
 loadInitialPage();
+
