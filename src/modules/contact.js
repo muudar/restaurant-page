@@ -3,7 +3,7 @@ function loadContact(){
     document.getElementsByClassName("nav")[0].children[0].style.borderBottom = "none";
     document.getElementsByClassName("nav")[0].children[1].style.borderBottom = "none";
     const midPage = document.getElementsByClassName("mid-page")[0];
-    midPage.classList.remove("mid-page-contact");
+    midPage.classList.remove("mid-page-menu");
     midPage.innerHTML = "";
     const header = document.createElement("div");
     header.classList.add("mid-header");
