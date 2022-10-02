@@ -1,8 +1,8 @@
 # Restaurant Page
 
-##Bet El Pasta
+## Bet El Pasta
 
 made for The Odin Project using Webpack.
 
-##Copyright
+## Copyright
 
