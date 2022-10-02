@@ -207,11 +207,12 @@ footer{
 }
 
 
-.mid-page-contact{
+.mid-page-menu{
     flex-direction : row;
     flex-wrap : wrap;
     justify-content : space-around;
-    width : min(50vw,500px);
-    height : 300px;
+    width : min(60vw,600px);
+    height : 350px;
     overflow :  auto;
+    margin-top: 50px;
 }

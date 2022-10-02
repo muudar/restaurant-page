@@ -27,7 +27,7 @@ function loadMenu(){
         
     }
     const midPage = document.getElementsByClassName("mid-page")[0];
-    midPage.classList.add("mid-page-contact");
+    midPage.classList.add("mid-page-menu");
     midPage.innerHTML = "";
     const menuDiv = document.createElement("div");
     menuDiv.textContent = "Menu";
